@@ -1,0 +1,3 @@
+SUCCESS #init_done
+SUCCESS #egyiket kilottuk
+SUCCESS #masikat kilottuk

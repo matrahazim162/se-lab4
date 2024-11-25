@@ -1,0 +1,3 @@
+GT4500,1,0,1,0 #init
+TORPEDO,SINGLE #egyik
+TORPEDO,SINGLE #masik
